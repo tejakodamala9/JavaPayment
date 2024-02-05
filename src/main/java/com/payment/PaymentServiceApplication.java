@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class PaymentServiceApplication {
 
 	public static void main(String[] args) {
-		System.out.println("paymentservice");
+		System.out.println("payment service");
 		SpringApplication.run(PaymentServiceApplication.class, args);
 	}
 
